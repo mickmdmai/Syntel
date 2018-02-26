@@ -1,2 +1,2 @@
 # Syntel
-DigitalDraft
+DigitalCraft
